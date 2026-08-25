@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/d71d0f84-69ef-45c3-984d-44e7a0874405" />
+<img src="assets/banner.png" width="100%" alt="Horizontal monochrome halftone banner" />
 
-# ANGELINE NEHA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=ANGELINE+NEHA" />
 
 **AI SYSTEMS · BACKEND · SECURITY**
-
 
 </div>
 
