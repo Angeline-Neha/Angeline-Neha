@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Angeline-Neha/Angeline-Neha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="624" height="352" alt="Image" src="https://github.com/user-attachments/assets/6fdf27aa-c2bd-4a47-bb5f-4d7c6cf374ad" />
 
-Here are some ideas to get you started:
+# ANGELINE NEHA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI SYSTEMS · BACKEND · SECURITY**
+
+<sub><i>systems, proofs, and the things that fail interestingly</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+# ABOUT ME
+
+</div>
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a33a2aa6-42b0-4292-a513-6a5ce75e969c" />
+</td>
+<td width="66%" valign="middle">
+
+Hey — I’m **Angeline**.
+
+I build systems at the intersection of **AI, backend engineering, and security**: agentic workflows, RAG and MCP infrastructure, ML-powered security tooling, and the services that make intelligent systems dependable under pressure.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# TECH STACK
+
+`PYTHON` · `TYPESCRIPT` · `JAVASCRIPT` · `JAVA` · `SQL`
+
+`LLMs` · `AGENTIC AI` · `RAG` · `MCP` · `XGBOOST` · `SHAP`
+
+`FASTAPI` · `FLASK` · `REST` · `WEBSOCKETS` · `SQLALCHEMY` · `POSTGRESQL` · `REDIS`
+
+`TRIVY` · `SYFT` · `GRYPE` · `CIRCOM` · `SNARKJS` · `GROTH16` · `SIGMA/SCHNORR`
+
+`REACT` · `VITE` · `TAILWIND` · `DOCKER` · `GIT` · `LINUX`
+
+</div>
