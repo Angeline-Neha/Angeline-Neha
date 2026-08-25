@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2048" height="1152" alt="Image" src="https://github.com/user-attachments/assets/d71d0f84-69ef-45c3-984d-44e7a0874405" />
+<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/d71d0f84-69ef-45c3-984d-44e7a0874405" />
 
 # ANGELINE NEHA
 
