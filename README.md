@@ -25,10 +25,8 @@
 </td>
 <td width="66%" valign="middle">
 
-Hey — I’m **Angeline**.
-
-I build systems at the intersection of **AI, backend engineering, and security**: agentic workflows, RAG and MCP infrastructure, ML-powered security tooling, and the services that make intelligent systems dependable under pressure.
-
+Hey, I’m **Angeline**.
+ I build systems at the intersection of AI, backend engineering, and security, with a focus on infrastructure that stays reliable and well-reasoned under real-world constraints.
 </td>
 </tr>
 </table>
