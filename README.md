@@ -6,7 +6,6 @@
 
 **AI SYSTEMS · BACKEND · SECURITY**
 
-<sub><i>systems, proofs, and the things that fail interestingly</i></sub>
 
 </div>
 
