@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="34%" align="center" valign="middle">
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/e29c9ea3-0140-47d6-83a6-63e5fbd48a82" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/e29c9ea3-0140-47d6-83a6-63e5fbd48a82" />
 </td>
 <td width="66%" valign="middle">
 
