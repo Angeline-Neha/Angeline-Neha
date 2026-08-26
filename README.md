@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/25e44087-4c25-4a96-97ee-1c5c4392da39" />
+<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/1bef38f9-9a35-4d50-a84a-92328740171e" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=ANGELINE+NEHA" />
 
