@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/d71d0f84-69ef-45c3-984d-44e7a0874405" />
+<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/25e44087-4c25-4a96-97ee-1c5c4392da39" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=ANGELINE+NEHA" />
 
@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="34%" align="center" valign="middle">
-<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a33a2aa6-42b0-4292-a513-6a5ce75e969c" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/e29c9ea3-0140-47d6-83a6-63e5fbd48a82" />
 </td>
 <td width="66%" valign="middle">
 
